@@ -14,6 +14,7 @@
 
 ## Training
 
+Run 'train.py'.
 Check these files is at the right path.
 - All the training images: './train/'
 - digitStruct.mat: './train/digitStruct.mat'
@@ -22,7 +23,7 @@ For Training, I used the training scripts from here. (https://github.com/pytorch
 
 ## Inference
 
-You can use inference.ipynb to create the answer.json.
+You can run 'inference.ipynb' to create the answer.json.
 
 You have to modify some variables in this code, to the path of your files.
 - The path of 'test.zip' in 'unzip' command.
