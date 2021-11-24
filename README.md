@@ -14,8 +14,7 @@
 
 ## Training
 
-Run 'train.py'.
-Check these files is at the right path.
+Before running 'train.py', check these files is at the right path.
 - All the training images: './train/'
 - digitStruct.mat: './train/digitStruct.mat'
 
